@@ -11,18 +11,15 @@ required by German Law. Contact me or use translation tools for an english versi
 <hr>
 
 #### Anbieter und Verantwortliche Person
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+Sanko Park yanı vs. vs.
 
 
-#### Kontakt
-Telefon: +49 160 93268817
+#### İletişim
+Telefon: +90 539 504 7064
 <br>
-e-Mail: per_at_starke-team.de
+e-Mail: alikosker@icloud.com
 <br>  
   
-[Website](https://perstarke-webdev.de/)   
-[Blog](https://blog.perstarke-webdev.de/)
-
   
 ## Datenschutzerklärung
 
