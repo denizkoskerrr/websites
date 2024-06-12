@@ -1,18 +1,18 @@
 # main links
 main:
-  - title: "Theme Documentation"
-    url: https://perstarke-webdev.de/oneflow-jekyll-theme
+  - title: "Makalelerimiz"
+    url: https://denizkoskerrr.github.io/websites/
     blank: true
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
+    description: "Makaleler https://denizkoskerrr.github.io/websites/ bu sitede"
   - title: "Section 1"
-    url: /#section-1
+    url: /#Görseller
     blank: false
-  - title: "Section 2"
+  - title: "Online Avukatlık"
     url: /#section-2
     blank: false
-  - title: "Section 3"
+  - title: "İletişim"
     url: /#section-3
     blank: false
-  - title: "Section 4"
+  - title: "Deneme"
     url: /#section-4
     blank: false
