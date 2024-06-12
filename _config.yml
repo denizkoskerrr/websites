@@ -62,9 +62,7 @@ footer:
       icon: "fab fa-dev"
       url: "https://dev.to/per-starke-642"
   copyright: "Bu Site 'Deniz Köşker' Tarafından Hazırlanmıştır " # Replace with your own
-  creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: ""
-      url: "https://denizkoskerrr.github.io/websites/"
+  
 
 
 
