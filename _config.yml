@@ -35,7 +35,7 @@ background-image-overlay : rgba(255, 255, 255, 0.5) # Set overlay for the backgr
 footer:
   links: # replace the URL's with your own for every link you want to have in your footer.
     - label: "Website"
-      icon: "fa fa-globe"
+      icon: "/assets/images/logo.webp"
       url: "https://denizkoskerrr.github.io/websites/"
     - label: "Email"
       icon: "fa fa-envelope"
@@ -61,9 +61,9 @@ footer:
     - label: "Dev"
       icon: "fab fa-dev"
       url: "https://dev.to/per-starke-642"
-  copyright: "Per Starke Web Development" # Replace with your own
+  copyright: "Bu Site 'Deniz Köşker' Tarafından Hazırlanmıştır " # Replace with your own
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: "Per Starke Web Development"
+      name: ""
       url: "https://denizkoskerrr.github.io/websites/"
 
 
