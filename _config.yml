@@ -10,7 +10,7 @@ oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "tr-TR"
-title                    : "AV. Ali Köşker & Av. Tayyar Çelik"
+title                    : "deneme config"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://denizkoskerrr.github.io/websites/" # the base hostname & protocol for your site
